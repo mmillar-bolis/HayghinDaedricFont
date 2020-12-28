@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# The Hayghin Daedric Script
 
-You can use the [editor on GitHub](https://github.com/mmillar-bolis/HayghinDaedricFont/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a simple Daedric character font based upon [Ayembedt](https://github.com/georgd/OpenMW-Fonts) for the letter glyphs, the number system documented by [Llevndryn Sershilavu](https://arador-dayn.fr/viewtopic.php?f=16&t=482) (a.k.a. *Naka*), and some additional punctuation marks from [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) to produce a font that is somewhat comfortable to read and write with.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The word *hayghin* comes from [Casual Dumneris](https://casualscrolls.fandom.com/wiki/Dunmeri_language) and means *simple*, to denote the sparse features of this font. I have admittedly only added glyphs that suit my needs in Markdown.
 
-### Markdown
+| ![Daedric Sample](./assets/images/daedric_readme_sample.png) |
+|--------------------------------------------------------------|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## View on [GitHub.io](https://mmillar-bolis.github.io/HayghinDaedricFont/)
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## Other Daedric Fonts
 
-1. Numbered
-2. List
+- [Daedric Runes](https://www.ffonts.net/Daedric-Runes.font) by Erwin Denissen (*High-Logic*)
+- [Oblivion](http://download.fliggerty.com/download-128-515) by Steve Deffeyes (*dongle*)
+- [Daedric Runes](https://morroblivion.com/forums/skyrim-general-chat/allis-daedric-runes-opentype-font-kit) by *Alli*
+- [Daedra](http://www.pixelsagas.com/?download=daedra) by Neale Davidson (*Pixel Sagas*)
+- [Ayembedt](https://github.com/georgd/OpenMW-Fonts) by Georg Duffner
+- [Daedric Font Resources](https://www.nexusmods.com/morrowind/mods/45458/) by *Yar-Yulme*
+- [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540) by *hardek*
+- [Daedric Letters Gold](https://www.deviantart.com/yagellonica/art/Daedric-Letters-GOLD-741405288) by *Yagellonica*
+- [Shebbz Daedric](https://twitter.com/t00thpasteface/status/1291107593432293376) by *Shebbz*
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmillar-bolis/HayghinDaedricFont/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

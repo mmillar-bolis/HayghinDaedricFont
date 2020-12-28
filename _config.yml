@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+baseurl: '/HayghinDaedricFont/' # the subpath of your site, e.g. /blog
+url: 'https://mmillar-bolis.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+title: 'Hayghin Daedric Font'
+description: 'A Free, Simple Daedric Font with Numbers and Basic Punctuation'
+show_downloads: false

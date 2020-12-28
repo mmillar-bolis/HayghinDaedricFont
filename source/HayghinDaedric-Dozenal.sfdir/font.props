@@ -1,0 +1,66 @@
+SplineFontDB: 3.2
+FontName: HayghinDaedric-Dozenal
+FullName: Hayghin Daedric (Dozenal)
+FamilyName: DaedricDozenal
+Weight: Medium
+Copyright: 2013-2020, Georg A. Duffner & M. Millar
+Version: 1.0
+ItalicAngle: 0
+UnderlinePosition: -102
+UnderlineWidth: 51
+Ascent: 819
+Descent: 205
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 195 2025089841 5721188]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1371245471
+ModificationTime: 1609060356
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2FamilyClass: 2575
+OS2Vendor: '    '
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 10 5
+BeginPrivate: 0
+EndPrivate
+Grid
+168 1331 m 0
+ 168 -717 l 1024
+2.7841796875 -91 m 29
+ 1164 -91 l 1053
+-18.5595703125 681 m 25
+ 1200 681 l 1049
+EndSplineSet
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont
