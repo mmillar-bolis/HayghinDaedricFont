@@ -4,8 +4,8 @@ This is a simple Daedric character font based upon [Ayembedt](https://github.com
 
 The word *hayghin* comes from [Casual Dumneris](https://casualscrolls.fandom.com/wiki/Dunmeri_language) and means *simple*, to denote the sparse features of this font. I have admittedly only added glyphs that suit my needs in Markdown.
 
-| ![Daedric Sample](./assets/images/daedric_readme_sample.png) |
-|--------------------------------------------------------------|
+| ![Daedric Sample](./assets/images/github/daedric_readme_sample.png) |
+|---------------------------------------------------------------------|
 
 ---
 
@@ -13,7 +13,7 @@ The word *hayghin* comes from [Casual Dumneris](https://casualscrolls.fandom.com
 
 ---
 
-## Other Daedric Fonts
+### Other Daedric Fonts
 
 - [Daedric Runes](https://www.ffonts.net/Daedric-Runes.font) by Erwin Denissen (*High-Logic*)
 - [Oblivion](http://download.fliggerty.com/download-128-515) by Steve Deffeyes (*dongle*)
