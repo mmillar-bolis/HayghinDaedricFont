@@ -15,7 +15,13 @@
 }
 </style>
 
-# The Hayghin Daedric Script
+---
+
+<center>
+<a href="index.html">Home</a>&nbsp;&nbsp;&nbsp;&nabla;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mmillar-bolis/HayghinDaedricFont">GitHub</a>&nbsp;&nbsp;&nbsp;&nabla;&nbsp;&nbsp;&nbsp;<a href="#other-daedric-fonts">More Fontd</a>
+</center>
+
+---
 
 This is a simple Daedric character font based upon [Ayembedt](https://github.com/georgd/OpenMW-Fonts) for the letter glyphs, the number system documented by [Llevndryn Sershilavu](https://arador-dayn.fr/viewtopic.php?f=16&t=482) (a.k.a. *Naka*), and some additional punctuation marks from [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) to produce a font that is somewhat comfortable to read and write with.
 
