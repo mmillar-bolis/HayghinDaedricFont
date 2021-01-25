@@ -1,0 +1,115 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+.highlight, .highlight .w {
+  color: #d0d0d0;
+}
+.highlight .err {
+  color: #151515;
+  background-color: #ac4142;
+}
+.highlight .c, .highlight .cd, .highlight .cm, .highlight .c1, .highlight .cs {
+  color: #888;
+}
+.highlight .cp {
+  color: #f0e68c;
+}
+.highlight .nt {
+  color: #f0e68c;
+}
+.highlight .nb {
+  color: #92dafa;
+}
+.highlight .nl, .nf, .ne {
+  color: #98fb98;
+  font-weight: bold;
+}
+.highlight .o, .highlight .ow {
+  color: #d0d0d0;
+}
+.highlight .p, .highlight .pi {
+  color: #d0d0d0;
+}
+.highlight .gi {
+  color: #98fb98;
+}
+.highlight .gd {
+  color: #ac4142;
+}
+.highlight .gh {
+  color: #6a9fb5;
+  font-weight: bold;
+}
+.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
+  color: #cd5c5c;
+}
+.highlight .kc {
+  color: #d28445;
+}
+.highlight .kt {
+  color: #d28445;
+}
+.highlight .kd {
+  color: #d28445;
+}
+.highlight .s, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .s1 {
+  color: #ffa0a0;
+}
+.highlight .sr {
+  color: #75b5aa;
+}
+.highlight .si {
+  color: #8f5536;
+}
+.highlight .se {
+  color: #8f5536;
+}
+.highlight .nn {
+  color: #bdb76b;
+}
+.highlight .nc {
+  color: #bdb76b;
+}
+.highlight .no {
+  color: #bdb76b;
+}
+.highlight .na {
+  color: #92dafa;
+}
+.highlight .m, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mb, .highlight .mx {
+  color: #98fb98;
+}
+.highlight .ss {
+  color: #98fb98;
+}
+
+pre, code {
+  color: #fff;
+  background-color: #333;
+
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 0.875em;
+
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+}
+
+#header_wrap {
+    background: url(../images/jekyll/header-1024.png) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+@font-face {
+    font-family: Daedric;
+    src: url(../fonts/ttf/HayghinDaedric.ttf) format('truetype');
+    font-weight: medium;
+    font-style: normal;
+}

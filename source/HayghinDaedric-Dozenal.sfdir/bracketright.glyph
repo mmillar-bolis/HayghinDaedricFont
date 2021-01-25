@@ -1,0 +1,22 @@
+StartChar: bracketright
+Encoding: 93 93 28
+Width: 380
+Flags: W
+HStem: -167 106<9.26407 219>
+VStem: 5 331<-165.556 -61> 219 117<-61 508.583>
+LayerCount: 2
+Fore
+SplineSet
+277 516 m 0xa0
+ 290 516 336 507 336 494 c 2xa0
+ 336 -135 l 2
+ 336 -152 319 -168 302 -168 c 2
+ 24 -167 l 2
+ 9 -167 5 -127 5 -112 c 0xc0
+ 5 -97 11 -61 26 -61 c 2
+ 219 -61 l 1
+ 219 493 l 2
+ 219 506 264 516 277 516 c 0xa0
+EndSplineSet
+Validated: 1
+EndChar
