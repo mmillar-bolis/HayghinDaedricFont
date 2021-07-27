@@ -34,7 +34,7 @@ The word *hayghin* comes from [Casual Dumneris][4] and means *simple*, to denote
 - [Shebbz Daedric][15] by *Shebbz*
 
 [7]: https://www.ffonts.net/Daedric-Runes.font
-[8]: http://download.fliggerty.com/download-128-515
+[8]: https://en.uesp.net/wiki/File:Obliviontt.zip
 [9]: https://morroblivion.com/forums/skyrim-general-chat/allis-daedric-runes-opentype-font-kit
 [10]: http://www.pixelsagas.com/?download=daedra
 [11]: https://github.com/georgd/OpenMW-Fonts

@@ -145,7 +145,7 @@ To attach another digit, use an apostrophe (<span style="font-family:Daedric">'<
 - [Shebbz Daedric][19] by *Shebbz*
 
 [11]: https://www.ffonts.net/Daedric-Runes.font
-[12]: http://download.fliggerty.com/download-128-515
+[12]: https://en.uesp.net/wiki/File:Obliviontt.zip
 [13]: https://morroblivion.com/forums/skyrim-general-chat/allis-daedric-runes-opentype-font-kit
 [14]: http://www.pixelsagas.com/?download=daedra
 [15]: https://github.com/georgd/OpenMW-Fonts
