@@ -34,6 +34,7 @@ The word *hayghin* comes from [Casual Dumneris][4] and means *simple*, to denote
 - [Better Daedric Font][14] by *hardek*
 - [Daedric Letters Gold][15] by *Yagellonica*
 - [Shebbz Daedric][16] by *Shebbz*
+- [Handwritten Daedric][17] by *Orsimeris*
 
 [8]: https://www.ffonts.net/Daedric-Runes.font
 [9]: https://en.uesp.net/wiki/File:Obliviontt.zip
@@ -44,5 +45,6 @@ The word *hayghin* comes from [Casual Dumneris][4] and means *simple*, to denote
 [14]: https://www.nexusmods.com/morrowind/mods/44540
 [15]: https://www.deviantart.com/yagellonica/art/Daedric-Letters-GOLD-741405288
 [16]: https://twitter.com/t00thpasteface/status/1291107593432293376
+[17]: https://www.reddit.com/r/teslore/comments/a3jnm8/handwritten_daedric_script_ttfotf/
 
 ---

@@ -133,7 +133,6 @@ To attach another digit, use an apostrophe (<span style="font-family:Daedric">'<
 
 ## Other Daedric Fonts
 
-
 - [Daedric Runes][11] by Erwin Denissen (*High-Logic*)
 - [Oblivion][12] by Steve Deffeyes (*dongle*)
 - [Daedric Runes][13] by *Alli*
@@ -143,6 +142,7 @@ To attach another digit, use an apostrophe (<span style="font-family:Daedric">'<
 - [Better Daedric Font][17] by *hardek*
 - [Daedric Letters Gold][18] by *Yagellonica*
 - [Shebbz Daedric][19] by *Shebbz*
+- [Handwritten Daedric][20] by *Orsimeris*
 
 [11]: https://www.ffonts.net/Daedric-Runes.font
 [12]: https://en.uesp.net/wiki/File:Obliviontt.zip
@@ -153,6 +153,7 @@ To attach another digit, use an apostrophe (<span style="font-family:Daedric">'<
 [17]: https://www.nexusmods.com/morrowind/mods/44540
 [18]: https://www.deviantart.com/yagellonica/art/Daedric-Letters-GOLD-741405288
 [19]: https://twitter.com/t00thpasteface/status/1291107593432293376
+[20]: https://www.reddit.com/r/teslore/comments/a3jnm8/handwritten_daedric_script_ttfotf/
 
 ---
 
@@ -164,15 +165,15 @@ To attach another digit, use an apostrophe (<span style="font-family:Daedric">'<
 | <span style="font-family:Daedric">Gher iam gah'dun siin Azura nesi'ag eal gah'amer Biridad as reymo winol shoksuna. Luhn'silvar, belid flur, as kogo sul en am as errat Chimer, almardar as sharmaat malshok alna. Et as Hortator sorilke'ag Dagoth Ur'm shaldmas, lakor bahr panthi mugakar. As arc gah'thiil en arador meriaal leyshe'ag as cornayn. Humore'ag lakor aln yivohn as Dunmer gire'ag ot dimi sut as demigi bahrdrar. Hadik yagla en talje gher Resdaynia ald, ot muhrhag dayn. Osuhn almese'ag abahr sut ohm yalif sul'm devahr, Nerevar.</span> |
 
 #### Example Credits:
-Wiki for [Casual Dunmeris][20]\
+Wiki for [Casual Dunmeris][21]\
 Lyrics by Luther Weiser\
-Translation by [Will Jordan][21]\
-Soundcloud of [Liz Katrin \(Katarzyna Bonikowska\)][22]\
-Skywind Soundtrack by [Fredrik Jonasson][23]
+Translation by [Will Jordan][22]\
+Soundcloud of [Liz Katrin \(Katarzyna Bonikowska\)][23]\
+Skywind Soundtrack by [Fredrik Jonasson][24]
 
-[20]: https://casualscrolls.fandom.com/wiki/Dunmeri_language
-[21]: https://soundcloud.com/smitehammer
-[22]: https://soundcloud.com/liz-katrin/hortator-skywind
-[23]: https://jonassonfredrik.bandcamp.com
+[21]: https://casualscrolls.fandom.com/wiki/Dunmeri_language
+[22]: https://soundcloud.com/smitehammer
+[23]: https://soundcloud.com/liz-katrin/hortator-skywind
+[24]: https://jonassonfredrik.bandcamp.com
 
 ---
