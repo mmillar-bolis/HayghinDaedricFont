@@ -1,10 +1,10 @@
 SplineFontDB: 3.2
 FontName: HayghinDaedric
 FullName: Hayghin Daedric
-FamilyName: Daedric
+FamilyName: Hayghin Daedric
 Weight: Medium
-Copyright: 2013-2020, Georg A. Duffner & M. Millar
-Version: 1.0
+Copyright: 2013-2022, Georg A. Duffner & M. Millar
+Version: 1.2
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1371245471
-ModificationTime: 1608680394
+ModificationTime: 1645510167
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -44,7 +44,7 @@ OS2Vendor: '    '
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
-Encoding: ISO8859-1
+Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -55,12 +55,10 @@ WinInfo: 0 10 5
 BeginPrivate: 0
 EndPrivate
 Grid
-168 1331 m 0
- 168 -717 l 1024
-2.7841796875 -91 m 29
- 1164 -91 l 1053
--18.5595703125 681 m 25
- 1200 681 l 1049
+-66.5595703125 -92.16015625 m 25
+ 1094.65625 -92.16015625 l 1049
+-103.423828125 716 m 29
+ 1115.13574219 716 l 1053
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 EndSplineFont
