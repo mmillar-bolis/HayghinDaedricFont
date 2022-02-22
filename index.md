@@ -1,6 +1,6 @@
 <style>
 @font-face {
-    font-family: Daedric;
+    font-family: HayghinDaedric;
     src: url('./assets/fonts/ttf/HayghinDaedric.ttf') format('truetype');
     font-weight: medium;
     font-style: normal;
@@ -8,7 +8,7 @@
 </style>
 <style>
 @font-face {
-    font-family: DaedricDozenal;
+    font-family: HayghinDaedric-Dozenal;
     src: url('./assets/fonts/ttf/HayghinDaedric-Dozenal.ttf') format('truetype');
     font-weight: medium;
     font-style: normal;
@@ -48,17 +48,25 @@ The word *hayghin* comes from [Casual Dumneris][4] and means *simple*, to denote
 
 ## Table of Glyphs
 
-Traditionally, the script is [unicase][6].
-
 | Ayem | Bedt | Cess | Doht | Ekem | Hefed | Geth | Hekem | Iya | Jeb | Koht | Lyr | Meht |
 |:----:|:----:|:----:|:----:|:----:|:-----:|:----:|:-----:|:---:|:---:|:----:|:---:|:----:|
 |   A  |   B  |   C  |   D  |   E  |   F   |   G  |   H   |  I  |  J  |   K  |  L  |   M  |
-| <span style="font-family:Daedric">A</span> | <span style="font-family:Daedric">B</span> | <span style="font-family:Daedric">C</span> | <span style="font-family:Daedric">D</span> | <span style="font-family:Daedric">E</span> | <span style="font-family:Daedric">F</span> | <span style="font-family:Daedric">G</span> | <span style="font-family:Daedric">H</span> | <span style="font-family:Daedric">I</span> | <span style="font-family:Daedric">J</span> | <span style="font-family:Daedric">K</span> | <span style="font-family:Daedric">L</span> | <span style="font-family:Daedric">M</span> |
+| <span style="font-family:HayghinDaedric">A</span> | <span style="font-family:HayghinDaedric">B</span> | <span style="font-family:HayghinDaedric">C</span> | <span style="font-family:HayghinDaedric">D</span> | <span style="font-family:HayghinDaedric">E</span> | <span style="font-family:HayghinDaedric">F</span> | <span style="font-family:HayghinDaedric">G</span> | <span style="font-family:HayghinDaedric">H</span> | <span style="font-family:HayghinDaedric">I</span> | <span style="font-family:HayghinDaedric">J</span> | <span style="font-family:HayghinDaedric">K</span> | <span style="font-family:HayghinDaedric">L</span> | <span style="font-family:HayghinDaedric">M</span> |
+
 
 | Neht | Oht | Payem | Quam | Roht | Seht | Tayem | Yoodt | Vehk | Web | Xayah | Yahkem | Zyr |
 |:----:|:---:|:-----:|:----:|:----:|:----:|:-----:|:-----:|:----:|:---:|:-----:|:------:|:---:|
 |   N  |  O  |   P   |   Q  |   R  |   S  |   T   |   U   |   V  |  W  |   X   |    Y   |  Z  |
-| <span style="font-family:Daedric">N</span> | <span style="font-family:Daedric">O</span> | <span style="font-family:Daedric">P</span> | <span style="font-family:Daedric">Q</span> | <span style="font-family:Daedric">R</span> | <span style="font-family:Daedric">S</span> | <span style="font-family:Daedric">T</span> | <span style="font-family:Daedric">U</span> | <span style="font-family:Daedric">V</span> | <span style="font-family:Daedric">W</span> | <span style="font-family:Daedric">X</span> | <span style="font-family:Daedric">Y</span> | <span style="font-family:Daedric">Z</span> |
+| <span style="font-family:HayghinDaedric">N</span> | <span style="font-family:HayghinDaedric">O</span> | <span style="font-family:HayghinDaedric">P</span> | <span style="font-family:HayghinDaedric">Q</span> | <span style="font-family:HayghinDaedric">R</span> | <span style="font-family:HayghinDaedric">S</span> | <span style="font-family:HayghinDaedric">T</span> | <span style="font-family:HayghinDaedric">U</span> | <span style="font-family:HayghinDaedric">V</span> | <span style="font-family:HayghinDaedric">W</span> | <span style="font-family:HayghinDaedric">X</span> | <span style="font-family:HayghinDaedric">Y</span> | <span style="font-family:HayghinDaedric">Z</span> |
+
+Traditionally, the script is [unicase][6], however this font utlizes several alternate Daedric glyphs in the lower-case range.
+
+The alternate glyphs:
+
+| Doht | Hekem | Jeb | Yoodt | Yahkem |
+|:----:|:-----:|:---:|:-----:|:------:|
+|   d  |   h   |  j  |   u   |    y   |
+| <span style="font-family:HayghinDaedric">d</span> | <span style="font-family:HayghinDaedric">h</span> | <span style="font-family:HayghinDaedric">j</span> | <span style="font-family:HayghinDaedric">u</span> | <span style="font-family:HayghinDaedric">y</span> |
 
 [6]: https://en.wikipedia.org/wiki/Unicase
 
@@ -73,14 +81,14 @@ Instead, the single-quote key serves as the critical apostrophe mark.
 | Apostrophe | Period | Comma | Left Quote | Right Quote |
 |:----------:|:------:|:-----:|:----------:|:-----------:|
 |      '     |    .   |   ,   |    \[      |      \]     |
-| <span style="font-family:Daedric">'</span> | <span style="font-family:Daedric">.</span> | <span style="font-family:Daedric">,</span> | <span style="font-family:Daedric">[</span> | <span style="font-family:Daedric">]</span> |
+| <span style="font-family:HayghinDaedric">'</span> | <span style="font-family:HayghinDaedric">.</span> | <span style="font-family:HayghinDaedric">,</span> | <span style="font-family:HayghinDaedric">[</span> | <span style="font-family:HayghinDaedric">]</span> |
 
 There are further english marks that have been adapted to fit the font, and to aid with writing expression.
 
-| Question | Exclamation | Colon | Semicolon | Septims |
-|:--------:|:-----------:|:-----:|:---------:|:-------:|
-|     ?    |      !      |   :   |     ;     |    $    |
-| <span style="font-family:Daedric">?</span> | <span style="font-family:Daedric">!</span> | <span style="font-family:Daedric">:</span> | <span style="font-family:Daedric">;</span> | <span style="font-family:Daedric">$</span> |
+| Question | Exclamation | Colon | Semicolon |
+|:--------:|:-----------:|:-----:|:---------:|
+|     ?    |      !      |   :   |     ;     |
+| <span style="font-family:HayghinDaedric">?</span> | <span style="font-family:HayghinDaedric">!</span> | <span style="font-family:HayghinDaedric">:</span> | <span style="font-family:HayghinDaedric">;</span> |
 
 [7]: https://en.wikipedia.org/wiki/Japanese_punctuation#Single_quotation_marks
 [8]: https://en.wikipedia.org/wiki/Japanese_punctuation#Full_stop
@@ -91,6 +99,27 @@ There are further english marks that have been adapted to fit the font, and to a
 
 The dozenal system has been employed for this version of Daedric, but a more common decimal version is available as well.
 
+### Decimal
+
+The default variant of this font, simply because of number convention. However, the *dozenal* system is better for interpretation of numbers among texts related to Morrowind.
+
+Original source for number glyphs is [*L'alphabet Daedrique en Dunmeris*][9] by [*Naka*][10].
+
+| Zero | One | Two | Three | Four | Five | Six | Seven | Eight | Nine | Ten |
+|---|---|---|---|---|---|---|---|---|---|----|
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| <span style="font-family:HayghinDaedric">0</span> | <span style="font-family:HayghinDaedric">1</span> | <span style="font-family:HayghinDaedric">2</span> | <span style="font-family:HayghinDaedric">3</span> | <span style="font-family:HayghinDaedric">4</span> | <span style="font-family:HayghinDaedric">5</span> | <span style="font-family:HayghinDaedric">6</span> | <span style="font-family:HayghinDaedric">7</span> | <span style="font-family:HayghinDaedric">8</span> | <span style="font-family:HayghinDaedric">9</span> | <span style="font-family:HayghinDaedric">1'0</span> |
+| __Bahr__ | __Aln__ | __Asc__ | __Cahn__ | __Cin__ | __Arc__ | __Tahn__ | __Sahn__ | __Daskhor__ | __Ent__ | __Alnahn__ |
+
+To attach another digit, use an apostrophe (<span style="font-family:Daedric">'</span>).
+
+| 11 | 12 | 25 | 50 | 192 | 1024 | 12345 | 144000 | 1000000 |
+|----|----|----|----|-----|------|-------|--------|---------|
+| <span style="font-family:HayghinDaedric">1'1</span> | <span style="font-family:HayghinDaedric">1'2</span> | <span style="font-family:HayghinDaedric">2'5</span> | <span style="font-family:HayghinDaedric">5'0</span> | <span style="font-family:HayghinDaedric">1'9'2</span> | <span style="font-family:HayghinDaedric">1'0'2'4</span> | <span style="font-family:HayghinDaedric">1'2'3'4'5</span> | <span style="font-family:HayghinDaedric">1'4'4'0'0'0</span> | <span style="font-family:HayghinDaedric">1'0'0'0'0'0'0</span> |
+
+[9]: https://arador-dayn.fr/viewtopic.php?f=16&t=482
+[10]: https://www.deviantart.com/naka117
+
 ### Dozenal
 
 A system of counting that groups numbers in sets of *twelve*.
@@ -98,36 +127,14 @@ A system of counting that groups numbers in sets of *twelve*.
 | Zero | One | Two | Three | Four | Five | Six | Seven | Eight | Nine | Dek | El | Ten |
 |---|---|---|---|---|---|---|---|---|---|----------|----------|----|
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | &#x218a; | &#x218b; | 10 |
-| <span style="font-family:DaedricDozenal">0</span> | <span style="font-family:DaedricDozenal">1</span> | <span style="font-family:DaedricDozenal">2</span> | <span style="font-family:DaedricDozenal">3</span> | <span style="font-family:DaedricDozenal">4</span> | <span style="font-family:DaedricDozenal">5</span> | <span style="font-family:DaedricDozenal">6</span> | <span style="font-family:DaedricDozenal">7</span> | <span style="font-family:DaedricDozenal">8</span> | <span style="font-family:DaedricDozenal">9</span> | <span style="font-family:DaedricDozenal">&#x218a;</span> | <span style="font-family:DaedricDozenal">&#x218b;</span> | <span style="font-family:DaedricDozenal">1'0</span> |
+| <span style="font-family:HayghinDaedric-Dozenal">0</span> | <span style="font-family:HayghinDaedric-Dozenal">1</span> | <span style="font-family:HayghinDaedric-Dozenal">2</span> | <span style="font-family:HayghinDaedric-Dozenal">3</span> | <span style="font-family:HayghinDaedric-Dozenal">4</span> | <span style="font-family:HayghinDaedric-Dozenal">5</span> | <span style="font-family:HayghinDaedric-Dozenal">6</span> | <span style="font-family:HayghinDaedric-Dozenal">7</span> | <span style="font-family:HayghinDaedric-Dozenal">8</span> | <span style="font-family:HayghinDaedric-Dozenal">9</span> | <span style="font-family:HayghinDaedric-Dozenal">&#x218a;</span> | <span style="font-family:HayghinDaedric-Dozenal">&#x218b;</span> | <span style="font-family:HayghinDaedric-Dozenal">1'0</span> |
 | __Bahr__ | __Aln__ | __Asc__ | __Cahn__ | __Cin__ | __Arc__ | __Tahn__ | __Sahn__ | __Daskhor__ | __Ent__ | __Xayn__ | __Lyrn__ | __Alnahn__ |
 
 To attach another digit, use an apostrophe (<span style="font-family:Daedric">'</span>).
 
 | 11 | 12 | 25 | 50 | 192 | 1024 | 12345 | 144000 | 1000000 |
 |----|----|----|----|-----|------|-------|--------|---------|
-| <span style="font-family:DaedricDozenal">1'1</span> | <span style="font-family:DaedricDozenal">1'2</span> | <span style="font-family:DaedricDozenal">2'5</span> | <span style="font-family:DaedricDozenal">5'0</span> | <span style="font-family:DaedricDozenal">1'9'2</span> | <span style="font-family:DaedricDozenal">1'0'2'4</span> | <span style="font-family:DaedricDozenal">1'2'3'4'5</span> | <span style="font-family:DaedricDozenal">1'4'4'0'0'0</span> | <span style="font-family:DaedricDozenal">1'0'0'0'0'0'0</span> |
-
-### Decimal
-
-The default variant of this font, simply because of number convention. However, the *dozenal* system is better for interpretation of numbers among texts related to Morrowind.
-
-Original source for number glyphs is [*L'alphabet Daedrique en Dunmeris*][9] by [*Naka*][10].
-
-
-| Zero | One | Two | Three | Four | Five | Six | Seven | Eight | Nine | Ten |
-|---|---|---|---|---|---|---|---|---|---|----|
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| <span style="font-family:Daedric">0</span> | <span style="font-family:Daedric">1</span> | <span style="font-family:Daedric">2</span> | <span style="font-family:Daedric">3</span> | <span style="font-family:Daedric">4</span> | <span style="font-family:Daedric">5</span> | <span style="font-family:Daedric">6</span> | <span style="font-family:Daedric">7</span> | <span style="font-family:Daedric">8</span> | <span style="font-family:Daedric">9</span> | <span style="font-family:Daedric">1'0</span> |
-| __Bahr__ | __Aln__ | __Asc__ | __Cahn__ | __Cin__ | __Arc__ | __Tahn__ | __Sahn__ | __Daskhor__ | __Ent__ | __Alnahn__ |
-
-To attach another digit, use an apostrophe (<span style="font-family:Daedric">'</span>).
-
-| 11 | 12 | 25 | 50 | 192 | 1024 | 12345 | 144000 | 1000000 |
-|----|----|----|----|-----|------|-------|--------|---------|
-| <span style="font-family:Daedric">1'1</span> | <span style="font-family:Daedric">1'2</span> | <span style="font-family:Daedric">2'5</span> | <span style="font-family:Daedric">5'0</span> | <span style="font-family:Daedric">1'9'2</span> | <span style="font-family:Daedric">1'0'2'4</span> | <span style="font-family:Daedric">1'2'3'4'5</span> | <span style="font-family:Daedric">1'4'4'0'0'0</span> | <span style="font-family:Daedric">1'0'0'0'0'0'0</span> |
-
-[9]: https://arador-dayn.fr/viewtopic.php?f=16&t=482
-[10]: https://www.deviantart.com/naka117
+| <span style="font-family:HayghinDaedric-Dozenal">1'1</span> | <span style="font-family:HayghinDaedric-Dozenal">1'2</span> | <span style="font-family:HayghinDaedric-Dozenal">2'5</span> | <span style="font-family:HayghinDaedric-Dozenal">5'0</span> | <span style="font-family:HayghinDaedric-Dozenal">1'9'2</span> | <span style="font-family:HayghinDaedric-Dozenal">1'0'2'4</span> | <span style="font-family:HayghinDaedric-Dozenal">1'2'3'4'5</span> | <span style="font-family:HayghinDaedric-Dozenal">1'4'4'0'0'0</span> | <span style="font-family:HayghinDaedric-Dozenal">1'0'0'0'0'0'0</span> |
 
 ---
 
@@ -162,7 +169,7 @@ To attach another digit, use an apostrophe (<span style="font-family:Daedric">'<
 | In the darkest days Azura sent her great champion to reform the Broken Promise Blessing. Moon-and-Star, to sing peace, the unbreakable soul of the lost Chimer, would silence devils mad first. So the Hortator challenged Dagoth Ur's army as no god could. The Five Great Houses and Ashland tribes heard the battlecall. Joined as one voice, the Dunmer screamed an end for the blasphemous undead. All come and see in Resdayn old, a newborn dawn. We prayed for your triumphant soul's return, Nerevar. |
 |---|
 | Gher iam gah'dun siin Azura nesi'ag eal gah'amer Biridad as reymo winol shoksuna. Luhn'silvar, belid flur, as kogo sul en am as errat Chimer, almardar as sharmaat malshok alna. Et as Hortator sorilke'ag Dagoth Ur'm shaldmas, lakor bahr panthi mugakar. As arc gah'thiil en arador meriaal leyshe'ag as cornayn. Humore'ag lakor aln yivohn as Dunmer gire'ag ot dimi sut as demigi bahrdrar. Hadik yagla en talje gher Resdaynia ald, ot muhrhag dayn. Osuhn almese'ag abahr sut ohm yalif sul'm devahr, Nerevar. |
-| <span style="font-family:Daedric">Gher iam gah'dun siin Azura nesi'ag eal gah'amer Biridad as reymo winol shoksuna. Luhn'silvar, belid flur, as kogo sul en am as errat Chimer, almardar as sharmaat malshok alna. Et as Hortator sorilke'ag Dagoth Ur'm shaldmas, lakor bahr panthi mugakar. As arc gah'thiil en arador meriaal leyshe'ag as cornayn. Humore'ag lakor aln yivohn as Dunmer gire'ag ot dimi sut as demigi bahrdrar. Hadik yagla en talje gher Resdaynia ald, ot muhrhag dayn. Osuhn almese'ag abahr sut ohm yalif sul'm devahr, Nerevar.</span> |
+| <span style="font-family:HayghinDaedric">Gher iam gah'dun siin Azura nesi'ag eal gah'amer Biridad as reymo winol shoksuna. Luhn'silvar, belid flur, as kogo sul en am as errat Chimer, almardar as sharmaat malshok alna. Et as Hortator sorilke'ag Dagoth Ur'm shaldmas, lakor bahr panthi mugakar. As arc gah'thiil en arador meriaal leyshe'ag as cornayn. Humore'ag lakor aln yivohn as Dunmer gire'ag ot dimi sut as demigi bahrdrar. Hadik yagla en talje gher Resdaynia ald, ot muhrhag dayn. Osuhn almese'ag abahr sut ohm yalif sul'm devahr, Nerevar.</span> |
 
 #### Example Credits:
 Wiki for [Casual Dunmeris][21]\
